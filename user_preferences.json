@@ -1,0 +1,27 @@
+// Settings in here override those in "Default/Preferences.sublime-settings",
+// and are overridden in turn by file type specific settings.
+{
+  "bold_folder_labels": true,
+  "highlight_modified_tabs": true,
+  "open_files_in_new_window": false,
+  "rulers": [80],
+  "spell_check": true,
+
+  "font": ["subpixel_antialias"],
+  "font_face": "Monaco",
+  "font_size": 16.0,
+
+  "highlight_line": true,
+  "line_padding_bottom": 1,
+  "line_padding_top": 1,
+
+  "draw_white_space": "all",
+  "shift_tab_unindent": true,
+  "tab_size": 2,
+  "translate_tabs_to_spaces": true,
+
+  "ensure_newline_at_eof_on_save": true,
+  "default_line_ending": "unix",
+  "fallback_encoding": "UTF-8",
+  "trim_trailing_white_space_on_save": true,
+}
